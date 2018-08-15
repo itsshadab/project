@@ -1,0 +1,45 @@
+html, body {
+	padding: 0px;
+	margin: 0px;
+	background-color: #EEEEEE;
+}
+
+.margin-t50 {
+	margin-top: 50px;
+}
+.padding-r0 {
+	padding-right: 0px;
+}
+/*.padding-l0 {
+	padding-left: 0px;
+}
+.padding-t0 {
+	padding-top: 0px;
+}
+.padding-b0 {
+	padding-bottom: 0px;
+}
+.margin-r0 {
+	margin-right: 0px;
+}
+.margin-l0 {
+	margin-left: 0px;
+}
+.margin-t0 {
+	margin-top: 0px;
+}
+.margin-b0 {
+	margin-bottom: 0px;
+}
+*/
+nav.navbar{
+	box-shadow: 2px 2px 4px gray;
+}
+nav .user-profile {
+	width: 32px;
+	height: 32px;
+	margin: 9px 0px;
+}
+header .carousel img {
+	width: 100%;
+}
